@@ -1,5 +1,5 @@
-### Welcome to Jin's GitHub 👋
-**My full Korean name is 염진석 (Jinseok Yeom).**
+### Welcome to Edward's GitHub 👋
+<!--**My full Korean name is 염진석 (Jinseok Yeom).**-->
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/BodunHu)](https://twitter.com/BodunHu)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-hu-19602b88/)](https://www.linkedin.com/in/edward-hu-19602b88/)
