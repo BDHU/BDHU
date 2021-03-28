@@ -1,3 +1,32 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/BDHU/Page_pics/master/profile/giphy.gif"/>
-</p>
+### Welcome to Jin's GitHub 👋
+**My full Korean name is 염진석 (Jinseok Yeom).**
+
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/BodunHu)](https://twitter.com/BodunHu)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-hu-19602b88/)](https://www.linkedin.com/in/edward-hu-19602b88/)
+
+[![Edward's github stats](https://github-readme-stats.vercel.app/api?username=bdhu)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+**jinyeom/jinyeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+## 🔭 I’m currently working on ...
+- Figure out which school to go for PhD
+- Building a dataflow operating system
+
+##  🤔 I’m looking for help with ...
+- How to pick a school for PhD
+- Which school to go for PhD
+
+<!-- ## ⚡ Fun fact: ... -->
