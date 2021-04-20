@@ -22,11 +22,10 @@ Here are some ideas to get you started:
 -->
 
 ## 🔭 I’m currently working on ...
-- Figure out which school to go for PhD
+- Getting a PhD at UT
 - Building a dataflow operating system
 
 ##  🤔 I’m looking for help with ...
-- How to pick a school for PhD
-- Which school to go for PhD
+- What the hell is Hyperledger
 
 <!-- ## ⚡ Fun fact: ... -->
