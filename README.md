@@ -4,7 +4,6 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/BodunHu)](https://twitter.com/BodunHu)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-hu-19602b88/)](https://www.linkedin.com/in/edward-hu-19602b88/)
 
-[![Edward's github stats](https://github-readme-stats.vercel.app/api?username=bdhu&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **jinyeom/jinyeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
