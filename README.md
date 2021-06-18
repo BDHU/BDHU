@@ -1,30 +1,10 @@
-### Welcome to Edward's GitHub 👋
-<!--**My full Korean name is 염진석 (Jinseok Yeom).**-->
+<p align="center">
+	<a href="https://github.com/BDHU"><img src="imgs/github.svg" alt="GitHub"></a>
+	<a href="https://twitter.com/BodunHu"><img src="imgs/twitter.svg" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/bodun-hu-19602b88/"><img src="imgs/linkedin.svg" alt="LinkedIn"></a>
+	<a href="https://www.bodunhu.com/cv.pdf"><img src="imgs/cv.svg" alt="Curriculum Vitae"></a>
+</p>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1877f2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/BodunHu)](https://twitter.com/BodunHu)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edward-hu-19602b88/)](https://www.linkedin.com/in/edward-hu-19602b88/)
-
-
-<!--
-**jinyeom/jinyeom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-## 🔭 I’m currently working on ...
-- Getting a PhD at UT
-- Building a dataflow operating system
-
-##  🤔 I’m looking for help with ...
-- What the hell is Hyperledger
-
-<!-- ## ⚡ Fun fact: ... -->
+<p align="center">👉 Check out what I've been working on recetnly
+	<a href="https://www.bodunhu.com/blog/">here</a> and follow me <a href="https://twitter.com/BodunHu">on Twitter</a> for updates! 🛠️ 
+</p>
