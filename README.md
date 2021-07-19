@@ -5,6 +5,6 @@
 	<a href="https://github.com/BDHU"><img src="https://visitor-badge.glitch.me/badge?page_id=BDHU.visitor-badge" alt="visitor"></a>
 </p>
 
-<p align="center">👉 Check out what I've been working on recetnly
+<p align="center">👉 Check out what I've been working on recently
 	<a href="https://www.bodunhu.com/blog/">here</a> and follow me <a href="https://twitter.com/BodunHu">on Twitter</a> for updates! 🛠️ 
 </p>
